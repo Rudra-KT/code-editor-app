@@ -1,3 +1,15 @@
+# LIVE DEMO
+## Dark Mode
+![image](https://github.com/user-attachments/assets/541a9bd4-2e68-4792-82ab-9868f934180e)
+
+## Light Mode
+![image](https://github.com/user-attachments/assets/c19d3b07-be5a-44a9-8be1-0f3c719063ae)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
